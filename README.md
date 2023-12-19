@@ -1,2 +1,4 @@
-# repository-sparta
-Sparta theme
+# Sparta Theme
+
+Thir repository will include a theme for the sparta forum!!
+-----------------------------------------------------------
